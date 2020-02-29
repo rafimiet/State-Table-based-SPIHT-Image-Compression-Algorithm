@@ -1,0 +1,18 @@
+Please cite the paper as follows:
+
+Lone, Mohd Rafi & HAKIM, Najeeb-ud-Din. (2018). 
+FPGA implementation of a low-power and area-efficient state-table-based compression algorithm for DSLR cameras. 
+TURKISH JOURNAL OF ELECTRICAL ENGINEERING & COMPUTER SCIENCES. 26. 2928-2943. 10.3906/elk-1804-208. 
+
+OR
+
+@article{article,
+author = {Lone, Mohd Rafi and HAKIM, Najeeb-ud-Din},
+year = {2018},
+month = {11},
+pages = {2928-2943},
+title = {FPGA implementation of a low-power and area-efficient state-table-based compression algorithm for DSLR cameras},
+volume = {26},
+journal = {TURKISH JOURNAL OF ELECTRICAL ENGINEERING & COMPUTER SCIENCES},
+doi = {10.3906/elk-1804-208}
+}
